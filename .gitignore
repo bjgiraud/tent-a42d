@@ -1,0 +1,16 @@
+*
+!*.ttf
+!*.png
+!game.c
+!*.h
+!*.c
+!CMakeLists.txt
+!README.md
+!.gitignore
+!.clang-format
+!/android
+android/bin/*
+android/jni/SDL*
+android/libs/*
+android/obj/*
+android/gen/*
